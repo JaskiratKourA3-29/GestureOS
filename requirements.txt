@@ -1,0 +1,12 @@
+# GestureOS — Python Dependencies
+# Install with:  pip install -r requirements.txt
+#
+# NOTE: The hand landmark model (~8 MB) is downloaded automatically
+#       on first run of main.py or handcanvas.py.
+#       You can also download it manually from:
+#       https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task
+
+mediapipe>=0.10.0
+opencv-python>=4.8.0
+pyautogui>=0.9.54
+numpy>=1.24.0
