@@ -18,7 +18,8 @@ _Control your entire desktop — mouse, apps, screenshots, media — using only 
 
 ![GestureOS Demo Placeholder](assets/demo_placeholder.png)
 
-> _Add your own screenshot or screen recording here after running the project._
+<img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/a9fba7d7-ecbd-492b-a9fa-7d8f00b56e9b" />
+
 
 </div>
 
