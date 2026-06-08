@@ -225,8 +225,9 @@ Building this project demonstrates practical knowledge of:
 
 ## 📸 Screenshots
 
-> Add your own screenshots here:
->
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/8e02abb7-859d-4a38-ac64-34e0f3159ccf" />
+
 > `screenshots/` folder is created automatically.
 > Run the app and use the **2-finger gesture** to capture screens!
 
