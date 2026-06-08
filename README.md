@@ -134,7 +134,7 @@ With `α = 0.18`, approximately 82% of each position comes from history, produci
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gesture-os.git
+git clone https://github.com/JaskiratKourA3-29/GestureOS
 cd gesture-os
 ```
 
